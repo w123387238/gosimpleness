@@ -1,0 +1,7 @@
+Log file created at: 2014/06/20 17:35:35
+Running on machine: EIUSAN_COMPC
+Binary: Built with gc go1.2.1 for windows/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0620 17:35:35.557430 07940 testter_test.go:18] key:a1,value:#asdfasdf
+I0620 17:35:35.562430 07940 testter_test.go:18] key:a2,value:二啊
+I0620 17:35:35.562430 07940 testter_test.go:18] key:a4,value:

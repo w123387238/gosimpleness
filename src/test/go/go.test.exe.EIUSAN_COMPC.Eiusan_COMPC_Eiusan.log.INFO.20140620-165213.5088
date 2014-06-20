@@ -1,0 +1,13 @@
+Log file created at: 2014/06/20 16:52:13
+Running on machine: EIUSAN_COMPC
+Binary: Built with gc go1.2.1 for windows/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0620 16:52:13.367593 05088 drawproperty.go:36] The line is:  #我靠啊啊啊啊
+I0620 16:52:13.369593 05088 drawproperty.go:38] The line is annotation!
+I0620 16:52:13.369593 05088 drawproperty.go:36] The line is:    a1 = #asdfasdf
+I0620 16:52:13.369593 05088 drawproperty.go:36] The line is:    a2 = 二啊
+I0620 16:52:13.369593 05088 drawproperty.go:36] The line is:    #
+I0620 16:52:13.369593 05088 drawproperty.go:38] The line is annotation!
+I0620 16:52:13.369593 05088 drawproperty.go:36] The line is:    a3
+I0620 16:52:13.369593 05088 drawproperty.go:36] The line is:    a4=
+I0620 16:52:13.369593 05088 drawproperty.go:29] is end line!
